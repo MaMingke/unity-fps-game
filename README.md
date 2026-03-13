@@ -51,6 +51,7 @@ Key gameplay rules:
 | Shoot | Left Mouse Button |
 
 These controls follow standard FPS game conventions to provide a familiar experience for players. 
+
 ---
 
 ## Technical Implementation
