@@ -92,6 +92,9 @@ The UI includes:
 
 ---
 ## Screenshots
+![start](screenshots/gameplay1.png)
 
-![Gameplay](screenshot/gameplay.png)
-![Score](screenshot/score.png)
+![Gameplay](screenshots/gameplay2.png)
+
+![end](screenshots/gameplay2.png)
+
