@@ -93,14 +93,6 @@ The UI includes:
 ---
 ## Screenshots
 
-<p align="center">
-<img src="screenshots/start.png" width="700">
-</p>
-
-<p align="center">
-<img src="screenshots/ingame.png" width="700">
-</p>
-
-<p align="center">
-<img src="screenshots/end.png" width="700">
-</p>
+<img src="./screenshots/start.png" width="600">
+<img src="./screenshots/ingame.png" width="600">
+<img src="./screenshots/end.png" width="600">
