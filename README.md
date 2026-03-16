@@ -92,9 +92,9 @@ The UI includes:
 
 ---
 ## Screenshots
-![start](start.png)width="600"
+![start](start.png width="600")
 
-![Gameplay](ingame.png)width="600"
+![Gameplay](ingame.png width="600")
 
-![end](end.png)width="600"
+![end](end.png width="600")
 
